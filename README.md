@@ -1,4 +1,4 @@
-Abstract
+#Abstract
 
 This project focuses on enhancing the modeling of Permanent Magnet DC (PMDC) motors
 through the application of advanced machine learning techniques. The primary objective is to
@@ -22,7 +22,7 @@ improving motor performance and longevity. This project demonstrates the potenti
 learning to overcome the limitations of traditional methods, offering significant advancements in
 the field of motor control and efficiency.
 
-Challenges
+#Challenges
 
 Accurately predicting key parameters of Permanent Magnet DC (PMDC) motors, such as motor
 velocity, rotor angular velocity, and rotor temperature, presents significant challenges due to the
