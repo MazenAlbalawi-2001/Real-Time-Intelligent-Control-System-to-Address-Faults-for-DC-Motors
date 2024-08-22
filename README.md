@@ -90,6 +90,11 @@ motors in various practical applications. Future work will focus
 on developing a real-time controller for temperature, further
 enhancing the motor’s performance and longevity.
 
+# **References**
+https://github.com/pranaymodukuru/PMSM_Rotor_Temp_Prediction
+
+https://github.com/Samuel-Ayankoso/Neural-Networks-and-ML--Geared-DC-Motor-Case-Study
+
 
 
 
