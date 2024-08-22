@@ -1,4 +1,4 @@
-#Abstract
+# **Abstract**
 
 This project focuses on enhancing the modeling of Permanent Magnet DC (PMDC) motors
 through the application of advanced machine learning techniques. The primary objective is to
@@ -22,7 +22,7 @@ improving motor performance and longevity. This project demonstrates the potenti
 learning to overcome the limitations of traditional methods, offering significant advancements in
 the field of motor control and efficiency.
 
-#Challenges
+# **Challenges**
 
 Accurately predicting key parameters of Permanent Magnet DC (PMDC) motors, such as motor
 velocity, rotor angular velocity, and rotor temperature, presents significant challenges due to the
@@ -59,24 +59,26 @@ its long-term reliability and efficiency. By addressing the limitations of tradi
 project aims to provide a robust solution for the accurate prediction and control of key
 parameters in PMDC motors, ultimately leading to more efficient and reliable motor systems.
 
-
-<img width="586" alt="‏لقطة الشاشة ١٤٤٦-٠٢-١٨ في ٤ ٥٢ ٠٣ م" src="https://github.com/user-attachments/assets/6d3e3a86-73a4-48fb-883b-e339615a45e5">
-
-
-<img width="757" alt="‏لقطة الشاشة ١٤٤٦-٠٢-١٨ في ٤ ٥٢ ٤٠ م" src="https://github.com/user-attachments/assets/185db65f-3dbc-4ff7-90fb-ef5457409f66">
-
-
-<img width="771" alt="‏لقطة الشاشة ١٤٤٦-٠٢-١٨ في ٤ ٥٣ ١٥ م" src="https://github.com/user-attachments/assets/739a4aa0-d6e1-4c9d-bdf3-36eebd54895a">
-
-
-
-Methodology
+<br><br>
+<img width="586" alt="‏لقطة الشاشة ١٤٤٦-٠٢-١٨ في ٤ ٥٢ ٠٣ م" src="https://github.com/user-attachments/assets/6d3e3a86-73a4-48fb-883b-e339615a45e5">
+<br><be>
+<br><br>
+<img width="757" alt="‏لقطة الشاشة ١٤٤٦-٠٢-١٨ في ٤ ٥٢ ٤٠ م" src="https://github.com/user-attachments/assets/185db65f-3dbc-4ff7-90fb-ef5457409f66">
+<br><be>
+<br><br>
+<img width="771" alt="‏لقطة الشاشة ١٤٤٦-٠٢-١٨ في ٤ ٥٣ ١٥ م" src="https://github.com/user-attachments/assets/739a4aa0-d6e1-4c9d-bdf3-36eebd54895a">
+<br><br>
+<br><br>
 
 
-![Methdolagy with RL](https://github.com/user-attachments/assets/9e8e75eb-fa79-4ed1-8bd9-647a3dabab51)
+
+# **Methodology**
 
 
-Future work
+<img width="586" alt="Methdolagy with RL" src="https://github.com/user-attachments/assets/9e8e75eb-fa79-4ed1-8bd9-647a3dabab51">
+
+
+# **Future work**
 
 By addressing the challenges in accurately modeling Permanent
 Magnet DC (PMDC) motors, this project demonstrates the
