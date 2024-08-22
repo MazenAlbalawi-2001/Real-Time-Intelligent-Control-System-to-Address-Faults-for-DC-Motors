@@ -23,6 +23,7 @@ learning to overcome the limitations of traditional methods, offering significan
 the field of motor control and efficiency.
 
 Challenges
+
 Accurately predicting key parameters of Permanent Magnet DC (PMDC) motors, such as motor
 velocity, rotor angular velocity, and rotor temperature, presents significant challenges due to the
 inherent nonlinear behavior of these systems. PMDC motors exhibit complex dynamics that are
